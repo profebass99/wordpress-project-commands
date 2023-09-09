@@ -1,1 +1,2 @@
-# wordpress-project-commands
+# wordpress-project-commands & architecture design 
+![alt text]()
